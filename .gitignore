@@ -1,0 +1,14 @@
+a.out
+firsttest.hex
+lab report.pdf
+uut.vcd
+.sconsign.dblite
+*.out
+*.vcd
+*.tar.gz
+_builds/
+_packages/
+_upstream/
+__pycache__/
+*.py[cod]
+*$py.class
